@@ -17,6 +17,17 @@ There are 6 .csv files:
 - Excel - Analysis and Cleaning
 - Power BI - Creating reports
 ## Data Cleaning/Preperation  
+In the initial phase of data preperation, files were downloaded and performed the following tasks:  
+1.Checking for missing values if any  
+2.Checked for dupilcate values  
+3.Formatting
+## Exploratory Data Analysis(EDA)
+EDA involved exploring on the data sets to relate the variables for key matrices which stakeholders wants to take into account:  
+1. Caluculated all key matrices.
+2. Some major key matrices : OT%,IF%,OTIF%,LIFR%,VOFR%
+## Results  
+
+
 
 
 
