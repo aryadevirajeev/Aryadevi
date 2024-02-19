@@ -36,7 +36,9 @@ The analysis results are summarized as follows:
 1.All the ordered quantity was not delivered to the customers.  
 2.Top customers also faces the same issue. 
 3.Delivery of Diary and Food products faces the  major issue.  
-4.All the key matrices IF%,OT%,OTIF% did not reach their respective targets not even a single day.
+4.All the key matrices IF%,OT%,OTIF% did not reach their respective targets not even a single day and is far away to reach the target  
+5.On an average orders are delayed by 0.42 days  
+
 ## Recommendations  
 * Focus on the availability of products ordered by the customer
 * Make sure if there is any missing of the product during logistics
