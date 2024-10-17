@@ -23,6 +23,19 @@ There are 6 .csv files:
 ### Tools
 - Excel - Analysis and Cleaning
 - Power BI - Creating reports
+
+ **Order Analysis**
+  ![orderanalysis-1](https://github.com/user-attachments/assets/88e08744-8599-4cbe-a1b0-d3abdeea1227)
+
+ **Key Metrics**  
+  ![keymetrocs-2](https://github.com/user-attachments/assets/22940f40-bdf0-4f19-a6d1-fc3ec7d47260)  
+
+ **Key Metrics vs Target levels**  
+  ![keymetrics vs targets-3](https://github.com/user-attachments/assets/4c9c8d1f-da2c-470e-b67c-603f8daec10f)  
+
+ **Customer Product Analysis**  
+  ![customerproductanalysis-4](https://github.com/user-attachments/assets/5b7cef69-6f4b-420e-b677-c10f3de9bd58)
+
 ### Data Cleaning/Preperation  
 In the initial phase of data preperation, files were downloaded and performed the following tasks:  
 1.Checking for missing values if any  
@@ -34,11 +47,11 @@ EDA involved exploring on the data sets to relate the variables for key matrices
 2. Some major key matrices : OT%,IF%,OTIF%,LIFR%,VOFR%
 ### Results  
 The analysis results are summarized as follows:  
-1.All the ordered quantity was not delivered to the customers.  
-2.Top 3 customers are Vijay Stores, Relfresh, Lotus Mart who also didn't get their full deliveries.    
-3.Delivery of Diary and Food products faces the  major issue.  
-4.All the key matrices IF%,OT%,OTIF% did not reach their respective targets not even a single day and is far away to reach the target  
-5.On an average orders are delayed by 0.42 days  
+1. All the ordered quantity was not delivered to the customers.  
+2. Top 3 customers are Vijay Stores, Relfresh, Lotus Mart who also didn't get their full deliveries.    
+3. Delivery of Diary and Food products faces the  major issue.  
+4. All the key matrices IF%,OT%,OTIF% did not reach their respective targets not even a single day and is far away to reach the target  
+5. On an average orders are delayed by 0.42 days  
 
 ## Recommendations  
 1. Ensure Product Availability
