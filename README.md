@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
+- [Results](#results)
 - [Recommendatios](#recommendations)
   
 ## Project Overview
@@ -34,13 +35,24 @@ EDA involved exploring on the data sets to relate the variables for key matrices
 ### Results  
 The analysis results are summarized as follows:  
 1.All the ordered quantity was not delivered to the customers.  
-2.Top customers also faces the same issue. 
+2.Top 3 customers are Vijay Stores, Relfresh, Lotus Mart who also didn't get their full deliveries.    
 3.Delivery of Diary and Food products faces the  major issue.  
 4.All the key matrices IF%,OT%,OTIF% did not reach their respective targets not even a single day and is far away to reach the target  
 5.On an average orders are delayed by 0.42 days  
 
 ## Recommendations  
-* Focus on the availability of products ordered by the customer
-* Make sure if there is any missing of the product during logistics
-* After analysing the availability and missing products, marketing team should focus on the customers ensuring full delivery of products
-* In case if there is insufficient products for delivery customers should informed regarding the same
+1. Ensure Product Availability
+    - Regularly monitor inventory levels to guarantee that all products ordered by customers are available.
+    - Implement stock replenishment strategies to avoid any out-of-stock situations.
+2. Identify Product Shortages
+    - Conduct a thorough check during the logistics process to identify any missing products.
+    - Use tracking systems to pinpoint where and why shortages occur, ensuring accurate stock records.
+3. Analyze Availability and Shortages
+    - Collect and analyze data on product availability and instances of missing items.
+    - Generate reports to highlight trends and root causes of product shortages.
+4. Focus on Full Delivery
+    - The marketing team should prioritize ensuring that customers receive their full order quantities.
+    - Communicate clearly with other departments to synchronize efforts for complete and timely deliveries.
+5. Customer Communication
+    - In cases where products are insufficient for delivery, promptly inform customers about the shortage.
+    - Offer solutions, such as alternative products or adjusted delivery schedules, to maintain customer satisfaction.
